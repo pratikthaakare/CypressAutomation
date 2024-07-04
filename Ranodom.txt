@@ -1,1 +1,2 @@
 this is the file created from macbook to check working of git.
+this second line comment is added from mac after selecting de branch in vscode and saving changes.
